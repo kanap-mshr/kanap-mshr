@@ -1,6 +1,7 @@
 
+# スキル,経験 ( マインドマップ版は[こちら](https://kanap-mshr.github.io/kanap-mshr/) )
 
-# [スキル,経験](https://kanap-mshr.github.io/kanap-mshr/)
+---
 
 ## Basic
 
